@@ -6,9 +6,9 @@ color:
   saturation: 0.21924545289948583
   rhythmicContrast: 0.03199426084756851
   brandColors:
-    - '#E31218'
-    - '#000000'
-    - '#540507'
-    - '#270000'
-    - '#930B0B'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: DVAYA
